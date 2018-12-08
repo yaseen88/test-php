@@ -2,6 +2,6 @@
 
 echo "i am testing php";
 
-include "new.php";
+include "./new.php";
 
 ?>
